@@ -1,0 +1,30 @@
+{
+  "name": "builder",
+  "version": "1.0.0",
+  "description": "Generic Query Builder For Loading Relational Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/distributed-systems/builder.git"
+  },
+  "keywords": [
+    "distributed",
+    "related",
+    "query",
+    "builder",
+    "builder"
+  ],
+  "author": "Mihael van der Weg <michael@vanderweg.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/distributed-systems/builder/issues"
+  },
+  "homepage": "https://github.com/distributed-systems/builder#readme",
+  "dependencies": {
+    "ee-types": "^2.1.4",
+    "section-tests": "^1.2.7"
+  }
+}
